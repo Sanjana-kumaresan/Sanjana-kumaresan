@@ -160,23 +160,23 @@ Focus        → AI-powered assistance
 
 ```text
                     ┌─────────────────────┐
-                    │    🤖 GENERATIVE AI │
+                        🤖 GENERATIVE AI 
                     └──────────┬──────────┘
                                │
                     ┌──────────▼──────────┐
-                    │      🧠 RAG / LLM   │
+                        🧠 RAG / LLM   
                     └──────────┬──────────┘
                                │
                     ┌──────────▼──────────┐
-                    │   ⚡ BACKEND / API  │
+                        ⚡ BACKEND / API  
                     └──────────┬──────────┘
                                │
                     ┌──────────▼──────────┐
-                    │     🔄 AUTOMATION   │
+                         🔄 AUTOMATION   
                     └──────────┬──────────┘
                                │
                     ┌──────────▼──────────┐
-                    │       📚 DSA        │
+                         📚  DSA         
                     └─────────────────────┘
 ```
 
@@ -253,14 +253,14 @@ Focus        → AI-powered assistance
 
 ```text
 ┌─────────────────────────────────────────────────────────┐
-│                                                         │
-│  🤖 Artificial Intelligence        ████████████████░  │
-│  🐍 Python                         ███████████████░░  │
-│  🧠 Generative AI                  ██████████████░░░  │
-│  🌐 Web Development                ██████████████░░░  │
-│  ⚡ Backend Development             ████████████░░░░░  │
-│  🔄 Automation / n8n               ███████████░░░░░░  │
-│  📚 DSA                            ██████████░░░░░░░  │
+│                                                         | 
+│  🤖 Artificial Intelligence        ████████████████░    
+│  🐍 Python                         ███████████████░░  
+│  🧠 Generative AI                  ██████████████░░░  
+│  🌐 Web Development                ██████████████░░░  
+│  ⚡ Backend Development             ████████████░░░░░  
+│  🔄 Automation / n8n               ███████████░░░░░░  
+│  📚 DSA                            ██████████░░░░░░░  
 │                                                         │
 └─────────────────────────────────────────────────────────┘
 ```
@@ -273,12 +273,12 @@ Focus        → AI-powered assistance
 
 </div>
 
-| 🏅 Certification                  | 🏢 Organization   |
-| :-------------------------------- | :---------------- |
-| 🐍 Python for Placement Readiness | ByteXL            |
-| 📊 Python 101 for Data Science    | IBM               |
-| 🗄️ Basic DBMS                    | ByteXL            |
-| 🌐 Web Design                     | Yale IT Skill Hub |
+| 🏅 Certification                   |  Organization      |
+|   -------------------------------------------------------
+| 🐍 Python for Placement Readiness     ByteXL            |
+| 📊 Python 101 for Data Science        IBM               |
+| 🗄️ Basic DBMS                         ByteXL            |
+| 🌐 Web Design                         Yale IT Skill Hub |
 
 ---
 
