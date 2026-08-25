@@ -129,26 +129,6 @@ Currently   : Learning • Building • Exploring 🚀
 
 ---
 
-## 📊 GitHub Statistics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sanjana-kumaresan&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sanjana-kumaresan&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-## 📈 GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sanjana-kumaresan&theme=tokyo-night&hide_border=true" />
-</p>
-
----
-
 ## 🧠 Currently Learning
 
 ```text
