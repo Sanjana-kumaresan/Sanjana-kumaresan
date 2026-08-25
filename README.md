@@ -195,34 +195,6 @@ Focus        → AI-powered assistance
 
 <div align="center">
 
-## `05` — GITHUB ANALYTICS
-
-<br>
-
-<img src="https://github-readme-stats.vercel.app/api?username=Sanjana-kumaresan&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" />
-
-<br><br>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Sanjana-kumaresan&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
-
-<div align="center">
-
-## `06` — CONTRIBUTION ACTIVITY
-
-<br>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sanjana-kumaresan&bg_color=0d1117&color=00e5ff&line=00e5ff&point=ffffff&area=true&hide_border=true" />
-
-</div>
-
----
-
-<div align="center">
-
 ## 🐍 CONTRIBUTION SNAKE
 
 <br>
