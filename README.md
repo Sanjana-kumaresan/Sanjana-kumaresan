@@ -31,22 +31,22 @@
 </div>
 
 ```text
-╭──────────────────────────────────────────────────────────────╮
-│                                                              │
-│   👩‍💻  SANJANA K                                              │
-│                                                              │
-│   🎓  B.Tech Information Technology                          │
-│       SNS College of Technology                              │
-│                                                              │
-│   🤖  AI Developer                                            │
-│   🐍  Python Developer                                       │
-│   🌐  Frontend Developer                                     │
-│   💡  Prompt Engineering Enthusiast                          │
-│                                                              │
-│   I enjoy turning ideas into practical AI-powered            │
-│   applications and continuously exploring new technology.    │
-│                                                              │
-╰──────────────────────────────────────────────────────────────╯
+╭──────────────────────────────────────────────────────────────|
+│                                                              
+│   👩‍💻  SANJANA K                                              
+│                                                              
+│   🎓  B.Tech Information Technology                          
+│       SNS College of Technology                              
+│                                                              
+│   🤖  AI Developer                                            
+│   🐍  Python Developer                                       
+│   🌐  Frontend Developer                                     
+│   💡  Prompt Engineering Enthusiast                          
+│                                                              
+│   I enjoy turning ideas into practical AI-powered            
+│   applications and continuously exploring new technology.    
+│                                                              
+╰──────────────────────────────────────────────────────────────|
 ```
 
 ---
