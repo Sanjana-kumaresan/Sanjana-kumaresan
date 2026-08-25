@@ -195,30 +195,6 @@ Focus        → AI-powered assistance
 
 <div align="center">
 
-## 🐍 CONTRIBUTION SNAKE
-
-<br>
-
-<img src="https://raw.githubusercontent.com/Sanjana-kumaresan/Sanjana-kumaresan/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
-
-</div>
-
----
-
-<div align="center">
-
-## `07` — GITHUB TROPHIES
-
-<br>
-
-<img src="https://github-profile-trophy.vercel.app/?username=Sanjana-kumaresan&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1" />
-
-</div>
-
----
-
-<div align="center">
-
 ## `08` — LEARNING MODE
 
 </div>
