@@ -1,192 +1,341 @@
-<h1 align="center">Hi 👋, I'm Sanjana K</h1>
+<div align="center">
 
-<h3 align="center">
-Pre-Final Year Information Technology Student • AI Developer • Front-End Developer
-</h3>
+# 👋 Hey, I'm **Sanjana K**
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=750&lines=AI+Developer+🤖;Python+Developer+🐍;Front-End+Developer+🌐;Generative+AI+Enthusiast+✨;Prompt+Engineering+Enthusiast+💡;Building+AI-Powered+Projects+🚀" />
-</p>
+### `AI Developer` • `Python Developer` • `Frontend Developer`
 
-<p align="center">
-  <a href="https://github.com/Sanjana-kumaresan">
-    <img src="https://img.shields.io/github/followers/Sanjana-kumaresan?label=Followers&style=for-the-badge&logo=github" />
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=Sanjana-kumaresan&label=Profile%20Views&style=for-the-badge" />
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=00E5FF&center=true&vCenter=true&width=800&lines=Building+AI-powered+applications+%F0%9F%A4%96;Exploring+Generative+AI+%26+RAG+%F0%9F%A7%A0;Turning+ideas+into+working+projects+%F0%9F%9A%80;Learning+%E2%80%A2+Building+%E2%80%A2+Improving+every+day+%E2%9C%A8" />
+
+<br>
+
+<a href="https://github.com/Sanjana-kumaresan">
+<img src="https://img.shields.io/badge/GitHub-Sanjana--kumaresan-181717?style=for-the-badge&logo=github" />
+</a>
+
+<a href="https://www.linkedin.com/in/sanjanakumaresan/">
+<img src="https://img.shields.io/badge/LinkedIn-Sanjana%20K-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=Sanjana-kumaresan&style=for-the-badge&color=00e5ff&label=PROFILE+VIEWS" />
+
+</div>
 
 ---
 
-## 👩‍💻 About Me
+<div align="center">
+
+## `01` — WHO AM I?
+
+</div>
 
 ```text
-> cat about_me.txt
-
-Name        : Sanjana K
-Education   : B.Tech Information Technology
-Year        : Pre-Final Year
-College     : SNS College of Technology
-Domain      : AI & Full-Stack Development
-Primary     : Python
-Interests   : Artificial Intelligence
-              Generative AI
-              Web Development
-              Prompt Engineering
-              Automation
-Currently   : Learning • Building • Exploring 🚀
+╭──────────────────────────────────────────────────────────────╮
+│                                                              │
+│   👩‍💻  SANJANA K                                              │
+│                                                              │
+│   🎓  B.Tech Information Technology                          │
+│       SNS College of Technology                              │
+│                                                              │
+│   🤖  AI Developer                                            │
+│   🐍  Python Developer                                       │
+│   🌐  Frontend Developer                                     │
+│   💡  Prompt Engineering Enthusiast                          │
+│                                                              │
+│   I enjoy turning ideas into practical AI-powered            │
+│   applications and continuously exploring new technology.    │
+│                                                              │
+╰──────────────────────────────────────────────────────────────╯
 ```
 
 ---
 
-## 🚀 What I'm Currently Doing
+<div align="center">
 
-* 🤖 Building AI-powered applications
-* 🧠 Exploring Generative AI and RAG
-* 🌐 Developing modern web applications
-* ⚡ Learning backend development with FastAPI and Flask
-* 🔥 Working with Firebase for authentication and databases
-* 🔄 Exploring automation using n8n
-* 📚 Strengthening my DSA and problem-solving skills
-* 💡 Participating in workshops, hackathons and technical events
+## `02` — MY TECH UNIVERSE
 
----
+### 💻 Languages
 
-## 🛠️ Tech Stack
-
-### 💻 Programming
-
-<p>
-  <img src="https://skillicons.dev/icons?i=python,java,javascript" />
-</p>
+<img src="https://skillicons.dev/icons?i=python,java,javascript" />
 
 ### 🌐 Frontend
 
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,streamlit" />
-</p>
+<img src="https://skillicons.dev/icons?i=html,css,streamlit" />
 
 ### ⚙️ Backend & Database
 
-<p>
-  <img src="https://skillicons.dev/icons?i=fastapi,flask,firebase" />
-</p>
+<img src="https://skillicons.dev/icons?i=fastapi,flask,firebase" />
 
-### 🤖 AI & Development Tools
+### 🤖 Development Tools
 
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
-</p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode" />
+
+</div>
 
 ---
 
-## 💡 Featured Projects
+<div align="center">
+
+## `03` — WHAT I'M BUILDING
+
+</div>
 
 ### 🤖 AI Resume Assistant
 
-> AI-powered Resume Assistant built using Retrieval-Augmented Generation.
+**RAG-powered AI application for interacting with resumes.**
 
-**Tech Stack:** Python • Streamlit • FastAPI • Gemini • ChromaDB • Embeddings
+```text
+Frontend       → Streamlit
+Backend        → FastAPI
+AI             → Gemini
+Embeddings     → Gemini Embeddings
+Vector Store   → ChromaDB
+PDF Processing → PyPDF2
+```
+
+**Features**
 
 * 📄 Upload and process resumes
-* 🔎 Retrieve relevant resume information using embeddings
+* 🔎 Semantic search using embeddings
 * 🧠 Ask questions about the uploaded resume
-* ⚡ Generate intelligent AI-powered answers
-* 🔗 Streamlit frontend with FastAPI backend
+* ⚡ Generate AI-powered responses
+* 🔗 Streamlit frontend + FastAPI backend
 
 ---
 
 ### 🏠 MyHome AI
 
-> AI-powered rental matching platform designed to help users discover suitable houses.
+**AI-powered rental matching platform for finding suitable houses.**
 
-**Tech Stack:** Python • Flask/FastAPI • Firebase • Machine Learning
+```text
+Frontend     → Web / Streamlit
+Backend      → Python
+Database     → Firebase
+AI / ML      → Recommendation System
+```
 
-* 🏡 House owner and property management
+**Features**
+
+* 🏡 House-focused rental platform
 * 🔐 Firebase authentication
-* 🤖 Automatic house recommendations
-* 🎯 AI-based rental matching
-* 📊 Intelligent matching based on user preferences
+* 🎯 Preference-based matching
+* 🤖 Automatic recommendations
+* 📊 Intelligent rental matching
 
 ---
 
 ### 💻 CodeCrafter AI
 
-> AI-powered application designed to assist developers with coding-related tasks.
+**AI-powered developer productivity project.**
 
-**Tech Stack:** Python • AI • Web Development
+```text
+Purpose      → Developer Assistance
+Technology   → Python • AI • Web
+Focus        → Coding Productivity
+```
 
 * 🤖 AI-assisted coding
 * 💡 Intelligent suggestions
-* ⚡ Developer productivity features
+* ⚡ Developer productivity
 
 ---
 
 ### 🩺 Heal AI
 
-> AI-based project focused on providing intelligent assistance through technology.
-
-**Tech Stack:** Python • AI • Web Development
-
----
-
-## 🧠 Currently Learning
+**AI-based intelligent assistance project focused on technology-driven solutions.**
 
 ```text
-Artificial Intelligence    ███████████████████░ 90%
-Python                     ██████████████████░░ 85%
-Web Development            █████████████████░░░ 80%
-Generative AI              ████████████████░░░░ 75%
-Backend Development        ███████████████░░░░░ 70%
-Automation / n8n           ██████████████░░░░░░ 65%
-DSA                        ████████████░░░░░░░░ 60%
+Technology   → Python • AI • Web Development
+Focus        → AI-powered assistance
 ```
 
 ---
 
-## 🏆 Achievements & Activities
+<div align="center">
 
-* 🚀 Built AI-powered applications
-* 🤖 Developed an AI Resume Assistant using RAG
-* 💡 Participated in AI and technology workshops
-* 🏆 Participated in hackathons and technical events
-* 🌐 Developed web and full-stack applications
-* 📚 Continuously learning emerging technologies
+## `04` — CURRENTLY EXPLORING
+
+</div>
+
+```text
+                    ┌─────────────────────┐
+                    │    🤖 GENERATIVE AI │
+                    └──────────┬──────────┘
+                               │
+                    ┌──────────▼──────────┐
+                    │      🧠 RAG / LLM   │
+                    └──────────┬──────────┘
+                               │
+                    ┌──────────▼──────────┐
+                    │   ⚡ BACKEND / API  │
+                    └──────────┬──────────┘
+                               │
+                    ┌──────────▼──────────┐
+                    │     🔄 AUTOMATION   │
+                    └──────────┬──────────┘
+                               │
+                    ┌──────────▼──────────┐
+                    │       📚 DSA        │
+                    └─────────────────────┘
+```
+
+### 🎯 Current Focus
+
+`Artificial Intelligence`
+`Generative AI`
+`RAG`
+`Python`
+`FastAPI`
+`Frontend Development`
+`n8n Automation`
+`DSA`
 
 ---
 
-## 📜 Certifications
+<div align="center">
 
-| Certification                     | Organization      |
-| --------------------------------- | ----------------- |
+## `05` — GITHUB ANALYTICS
+
+<br>
+
+<img src="https://github-readme-stats.vercel.app/api?username=Sanjana-kumaresan&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" />
+
+<br><br>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Sanjana-kumaresan&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+<div align="center">
+
+## `06` — CONTRIBUTION ACTIVITY
+
+<br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sanjana-kumaresan&bg_color=0d1117&color=00e5ff&line=00e5ff&point=ffffff&area=true&hide_border=true" />
+
+</div>
+
+---
+
+<div align="center">
+
+## 🐍 CONTRIBUTION SNAKE
+
+<br>
+
+<img src="https://raw.githubusercontent.com/Sanjana-kumaresan/Sanjana-kumaresan/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
+
+</div>
+
+---
+
+<div align="center">
+
+## `07` — GITHUB TROPHIES
+
+<br>
+
+<img src="https://github-profile-trophy.vercel.app/?username=Sanjana-kumaresan&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1" />
+
+</div>
+
+---
+
+<div align="center">
+
+## `08` — LEARNING MODE
+
+</div>
+
+```text
+┌─────────────────────────────────────────────────────────┐
+│                                                         │
+│  🤖 Artificial Intelligence        ████████████████░  │
+│  🐍 Python                         ███████████████░░  │
+│  🧠 Generative AI                  ██████████████░░░  │
+│  🌐 Web Development                ██████████████░░░  │
+│  ⚡ Backend Development             ████████████░░░░░  │
+│  🔄 Automation / n8n               ███████████░░░░░░  │
+│  📚 DSA                            ██████████░░░░░░░  │
+│                                                         │
+└─────────────────────────────────────────────────────────┘
+```
+
+---
+
+<div align="center">
+
+## `09` — CERTIFICATIONS
+
+</div>
+
+| 🏅 Certification                  | 🏢 Organization   |
+| :-------------------------------- | :---------------- |
 | 🐍 Python for Placement Readiness | ByteXL            |
 | 📊 Python 101 for Data Science    | IBM               |
-| 🗄️ Basic DBMS                     | ByteXL            |
+| 🗄️ Basic DBMS                    | ByteXL            |
 | 🌐 Web Design                     | Yale IT Skill Hub |
 
 ---
 
-## 🌐 Connect With Me
+<div align="center">
 
-<p align="center">
+## `10` — MY DEVELOPER MINDSET
 
-<a href="https://github.com/Sanjana-kumaresan">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+```text
+                 ┌──────────────┐
+                 │    LEARN     │
+                 └──────┬───────┘
+                        ↓
+                 ┌──────────────┐
+                 │   EXPLORE    │
+                 └──────┬───────┘
+                        ↓
+                 ┌──────────────┐
+                 │    BUILD     │
+                 └──────┬───────┘
+                        ↓
+                 ┌──────────────┐
+                 │    TEST      │
+                 └──────┬───────┘
+                        ↓
+                 ┌──────────────┐
+                 │   IMPROVE    │
+                 └──────┬───────┘
+                        ↓
+                    🚀 REPEAT
+```
 
-<a href="(https://www.linkedin.com/in/sanjanakumaresan/)">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+### *"I don't just learn technology — I build with it."* 🚀
 
-</p>
+</div>
 
 ---
 
-<p align="center">
+<div align="center">
 
-### 💙 Learn. Build. Improve. Repeat. 🚀
+## 🌐 LET'S CONNECT
 
-</p>
+<br>
 
-<p align="center">
-  <i>Thanks for visiting my profile! ⭐</i>
-</p>
+<a href="https://github.com/Sanjana-kumaresan">
+<img src="https://img.shields.io/badge/GitHub-Sanjana--kumaresan-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<a href="https://www.linkedin.com/in/sanjanakumaresan/">
+<img src="https://img.shields.io/badge/LinkedIn-Sanjana%20K-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<br><br>
+
+**Open to internships • collaborations • AI projects • learning opportunities**
+
+<br><br>
+
+⭐ **Thanks for visiting my profile!**
+
+</div>
