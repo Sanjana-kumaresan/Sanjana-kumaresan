@@ -287,3 +287,10 @@ Focus        → AI-powered assistance
 ⭐ **Thanks for visiting my profile!**
 
 </div>
+
+
+<h2 align="center">🐍 Watch My Contributions Get Eaten!</h2>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg" />
+</p>
